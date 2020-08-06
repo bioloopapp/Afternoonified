@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.afternoonified.afternoonified.MainActivity">
+    <item android:id="@+id/etsy"
+        android:title="@string/etsy" />
+    <item android:id="@+id/instagram_url"
+        android:title="@string/af_instagram" />
+    <item android:id="@+id/instagram_url2"
+        android:title="@string/ah_instagram" />
+    <item android:id="@+id/twitter"
+        android:title="@string/twitter" />
+    <item android:id="@+id/kc"
+        android:title="@string/kc" />
+    <item android:id="@+id/exit"
+        android:title="@string/exit" />
+</menu>
