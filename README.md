@@ -9,3 +9,5 @@ An Android App for [Afternoonified Etsy Shop](https://www.etsy.com/shop/shopafte
 ![Icon](/screenshots/instagram2.png)
 ![Icon](/screenshots/twitter.png)
 ![Icon](/screenshots/katecatalina.png)
+
+[Download APK](app/release/app-release.apk)
