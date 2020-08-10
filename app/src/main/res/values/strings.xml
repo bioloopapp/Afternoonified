@@ -2,8 +2,6 @@
     <string name="app_name">Afternoonified</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="previous">Previous</string>
 
     <string name="af_instagram">Afternoonified Instagram</string>
     <string name="ah_instagram">Ahauntedswan Instagram</string>
